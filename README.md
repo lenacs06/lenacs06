@@ -55,10 +55,10 @@ Estudante de **Análise e Desenvolvimento de Sistemas**, sempre buscando evoluir
 
 ## Projetos
 
-- 🔹 **API OpenAI como suporte web**  
+-  **API OpenAI como suporte web**  
   Desenvolvida com **FastAPI (Python)** e **HTML**
 
-- 🔹 **Jogo de escolhas web**  
+-  **Jogo de escolhas web**  
   Aplicação web com **Flask**, utilizando arquivos **JSON** para estrutura de decisões
 
 ---
