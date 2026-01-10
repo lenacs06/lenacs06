@@ -82,13 +82,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas**, sempre buscando evoluir
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=lenacs06&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenacs06&layout=compact&theme=dark)
-
----
-
 ## 📫 Contato
 
 - 📧 Email: **helenacs2006@gmail.com**
