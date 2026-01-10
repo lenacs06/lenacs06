@@ -10,7 +10,7 @@
 
 Sou Analista de Service Desk Júnior, atuando com suporte N1, diagnóstico de problemas,
 documentação técnica e atendimento a usuários.  
-Tenho interesse em **infraestrutura**, **automação**, **backend Python** e melhoria contínua de processos.
+Tenho interesse em **infraestrutura**, **automação**, **backend Python**, **Cybersecurity** e melhoria contínua de processos.
 
 ---
 
